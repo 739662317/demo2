@@ -1,0 +1,11 @@
+Index: 1.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 1.py	(date 1606205649147)
++++ 1.py	(date 1606205649147)
+@@ -0,0 +1,3 @@
++'''
++我是注释
++'''
